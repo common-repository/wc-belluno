@@ -1,0 +1,18 @@
+var woocommerce_belluno_params = {
+    'method_empty': 'Por favor, selecione o método de pagamento',
+    'error_expiration': 'Por favor, verifique a data de expiração do cartão de crédito',
+    'error_birthday': 'Por favor, verifique a data de nascimento do titular',
+    'error_credit_card': 'Por favor, insira um número de Cartão válido',
+    'error_cvv': 'Por favor, insira um código de segurança válido',
+    'error_name_card': 'Por favor, insira o Nome do Titular. Limite de 50 caracteres!',
+    'error_phone': 'Por favor, insira um número de telefone válido',
+    'error_cpf': 'Por favor, insira um número de CPF válido',
+    'error_cnpj': 'Por favor, insira um número de CNPJ válido',
+    'error_doc_id': 'Por favor, insira um número de CPF ou CNPJ válido',
+    'processing': 'Por favor aguarade, sua transação está sendo processada ...',
+    'redirecting': 'Obrigado pelo seu pedido, nós o concluiremos em %s segundos ...',
+    'ajax_fail': 'Ocorreu um erro no pedido, por favor, cancele a encomenda e contacte-nos para efetuar a sua encomenda.',
+    'at_sight': 'a vista',
+    'of': 'de',
+    'error_payment': 'Ocorreu um erro no processamento do seu pagamento! Por favor, tente novamente mais tarde.',
+}
